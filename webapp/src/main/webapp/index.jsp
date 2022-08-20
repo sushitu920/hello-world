@@ -1,6 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>hi welcome to my page!</h1>
+    
+	  <h1>	Welcome To My Page!</h1>
+
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou! </h1>
+   <h1> Bye! </h1>
 
   
 </form>
